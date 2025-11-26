@@ -2,21 +2,22 @@ using UnityEngine;
 
 public class Rotate : MonoBehaviour
 {
-    // Declare variabel to select rotation target
     public Transform target;
-    public float speed;
+    public float baseSpeed; // Ganti nama 'speed' jadi 'baseSpeed' agar jelas
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void Update()
     {
-        // Rotate Around
-        transform.RotateAround(target.transform.position, target.transform.up, speed * Time.deltaTime);
+        // PENGAMAN: Cek apakah target ada
+        if (target == null) return;
 
+        // Ambil multiplier dari TimeManager
+        // Jika TimeManager belum dibuat, default ke 1 agar tidak error
+        float globalMultiplier = TimeManager.Instance != null ? TimeManager.Instance.currentMultiplier : 1f;
+
+        // Rumus baru
+        float step = baseSpeed * globalMultiplier * Time.deltaTime;
+
+        // Eksekusi Rotasi
+        transform.RotateAround(target.transform.position, target.transform.up, step);
     }
 }
