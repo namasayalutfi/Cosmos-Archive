@@ -1,0 +1,84 @@
+{
+  "planets": [
+    {
+      "name": "Mercury",
+      "radius": "2.439 km",
+      "rotationPeriod": "59 hari Bumi",
+      "revolutionPeriod": "88 hari Bumi",
+      "distance": "57,9 juta km",
+      "description": "Merkurius adalah planet terkecil dalam Tata Surya dan merupakan planet yang paling dekat dengan Matahari, sehingga ia menerima cahaya dan panas jauh lebih besar dibandingkan planet lain. Karena tidak memiliki atmosfer yang cukup tebal untuk menahan panas, suhu di permukaannya dapat mencapai ekstrem yang luar biasa: sangat panas pada siang hari dan sangat dingin pada malam hari. Ukurannya hanya sedikit lebih besar daripada Bulan, dengan diameter sekitar 4.879 km. Gravitasi yang rendah dan permukaan berbatu membuatnya terlihat penuh kawah, mirip dengan permukaan Bulan. Jarak rata-rata Merkurius dari Matahari adalah sekitar 57 juta kilometer. Hari di Merkurius berlangsung sangat lama jika dibandingkan dengan rotasinya: 1 hari Merkurius sama dengan 59 hari Bumi, sementara satu tahun Merkurius hanya 88 hari Bumi. Planet ini tidak memiliki satelit alami dan tidak memiliki cincin. Ciri lain yang menarik adalah eksentrisitas orbitnya yang tinggi, yang menyebabkan jarak Merkurius terhadap Matahari berubah cukup drastis sepanjang orbitnya. Karena tidak memiliki atmosfer pelindung, radiasi Matahari langsung menghantam permukaannya, membuatnya menjadi salah satu lingkungan paling ekstrem di sistem tata surya. Walaupun begitu, keberadaan Merkurius memberikan gambaran menarik tentang bagaimana planet berbatu terbentuk, berevolusi, serta berinteraksi dengan bintang induk."
+    },
+    {
+      "name": "Venus",
+      "radius": "6.051 km",
+      "rotationPeriod": "243 hari Bumi",
+      "revolutionPeriod": "225 hari Bumi",
+      "distance": "108,2 juta km",
+      "description": "Venus adalah planet kedua dari Matahari dan sering disebut sebagai kembaran Bumi karena ukuran dan massanya yang hampir sama. Namun, kondisi permukaan Venus sangat berbeda dan jauh lebih ekstrem. Planet ini memiliki atmosfer super tebal yang hampir seluruhnya terdiri dari karbon dioksida, dengan awan asam sulfat yang menutupi permukaan sehingga cahaya Matahari tidak bisa terlihat langsung. Efek rumah kaca yang ekstrem membuat suhu di Venus mencapai lebih dari 465 derajat Celsius, menjadikannya planet terpanas di Tata Surya bahkan lebih panas dari Merkurius yang lebih dekat ke Matahari. Tekanan atmosfernya sekitar 92 kali tekanan atmosfer Bumi, setara dengan tekanan di kedalaman laut yang sangat dalam. Jarak Venus ke Matahari sekitar 108 juta kilometer. Rotasinya unik: Venus berputar sangat lambat dan berlawanan arah dibandingkan planet lain. Sehari di Venus setara dengan 243 hari Bumi, lebih lama dari satu tahunnya sendiri yang berlangsung 225 hari Bumi. Permukaannya terdiri dari dataran vulkanik luas, pegunungan, dan bukti aktivitas geologis. Karena atmosfernya yang tebal, permukaan Venus tidak bisa diamati langsung dengan teleskop optik dan harus dipetakan menggunakan radar. Venus juga tidak memiliki satelit alami. Meski kondisi permukaannya sangat keras, Venus adalah objek penting dalam penelitian astronomi, terutama untuk memahami efek rumah kaca, evolusi atmosfer, dan kemungkinan kondisi ekstrem pada planet lain di luar Tata Surya."
+    },
+    {
+      "name": "Earth",
+      "radius": "6.371 km",
+      "rotationPeriod": "24 Jam",
+      "revolutionPeriod": "365 Hari",
+      "distance": "149,6 juta km",
+      "description": "Bumi adalah planet ketiga dari Matahari dan merupakan satu-satunya planet yang diketahui mendukung kehidupan. Keberadaan air dalam bentuk cair, atmosfer yang stabil, serta medan magnet yang kuat menjadikannya lingkungan yang ideal bagi miliaran spesies. Jarak Bumi dari Matahari sekitar 149,6 juta kilometer, sebuah zona yang disebut sebagai habitable zone atau zona laik huni. Diameter Bumi sekitar 12.742 km, membuatnya lebih besar dibandingkan Venus dan Mars. Atmosfer Bumi terdiri dari nitrogen, oksigen, dan sejumlah gas lain yang penting bagi kehidupan. Bumi memiliki satu satelit alami, yaitu Bulan, yang berperan penting dalam menstabilkan rotasi planet serta memengaruhi pasang surut laut. Struktur Bumi terbagi menjadi inti, mantel, dan kerak yang terus bergerak melalui proses tektonik. Rotasi Bumi membutuhkan waktu 24 jam, sementara orbitnya mengelilingi Matahari memerlukan 365,25 hari. Lapisan ozon dan medan magnet berfungsi sebagai pelindung dari radiasi berbahaya dan partikel energi tinggi dari Matahari. Bumi dihuni oleh berbagai ekosistem, mulai dari gurun hingga lautan terdalam, dan memiliki keanekaragaman hayati yang luar biasa. Dalam konteks astronomi, Bumi sering dijadikan patokan untuk menilai apakah planet lain dapat dihuni. Penelitian ilmiah terus dilakukan untuk memahami asal-usul kehidupan di Bumi serta bagaimana planet ini berevolusi seiring waktu. Dengan kombinasi kondisi fisik, kimia, dan biologis yang unik, Bumi tetap menjadi planet paling kompleks dan dinamis yang dikenal saat ini."
+    },
+    {
+      "name": "Mars",
+      "radius": "3.389 km",
+      "rotationPeriod": "24,6 Jam",
+      "revolutionPeriod": "687 hari Bumi",
+      "distance": "227,9 juta km",
+      "description": "Mars adalah planet keempat dari Matahari dan dikenal sebagai Planet Merah karena warna kemerahannya yang berasal dari besi oksida di permukaannya. Diameter Mars sekitar 6.779 km, lebih kecil dari Bumi namun lebih besar dari Merkurius. Jarak rata-ratanya dari Matahari adalah sekitar 227 juta kilometer. Atmosfer Mars sangat tipis dan didominasi oleh karbon dioksida, sehingga suhu permukaannya sangat dingin, rata-rata sekitar -60 derajat Celsius. Meskipun dingin, Mars adalah salah satu kandidat utama untuk kemungkinan kehidupan mikroba karena terdapat bukti bahwa air cair pernah mengalir di permukaannya jutaan tahun yang lalu. Mars memiliki dua satelit kecil, Phobos dan Deimos, yang kemungkinan merupakan asteroid yang tertangkap gravitasi Mars. Permukaan Mars dipenuhi lembah besar, gunung berapi raksasa seperti Olympus Mons—gunung tertinggi di Tata Surya—dan lembah canyon raksasa seperti Valles Marineris. Rotasi Mars hampir setara dengan Bumi, yaitu sekitar 24,6 jam, namun satu tahun di Mars berlangsung 687 hari Bumi. Penelitian tentang Mars terus berkembang melalui rover seperti Curiosity dan Perseverance yang mengumpulkan data tentang tanah, atmosfer, dan jejak air. Eksplorasi ini bertujuan untuk memahami apakah Mars pernah layak huni dan apakah suatu hari manusia bisa tinggal di sana. Planet ini juga memiliki badai debu yang dapat menutupi seluruh permukaan selama berbulan-bulan. Dengan semua karakteristik tersebut, Mars tetap menjadi salah satu objek paling menarik dalam pencarian kehidupan di luar Bumi serta sebagai tujuan kolonisasi masa depan."
+    },
+    {
+      "name": "Jupiter",
+      "radius": "69.911 km",
+      "rotationPeriod": "9,9 Jam",
+      "revolutionPeriod": "11,86 tahun Bumi",
+      "distance": "778,5 juta km",
+      "description": "Jupiter adalah planet terbesar di Tata Surya, dengan diameter sekitar 139.820 km. Sebagai raksasa gas, Jupiter tidak memiliki permukaan padat seperti planet berbatu, melainkan terdiri dari hidrogen dan helium. Gravitasi Jupiter sangat besar sehingga memengaruhi orbit banyak objek di Tata Surya, termasuk melindungi Bumi dari asteroid tertentu. Jaraknya dari Matahari sekitar 778 juta kilometer. Ciri ikonik Jupiter adalah Bintik Merah Besar, sebuah badai raksasa yang telah berlangsung selama lebih dari 300 tahun. Atmosfer Jupiter penuh dengan awan berlapis-lapis yang bergerak cepat dan menghasilkan pola warna yang menarik. Jupiter memiliki medan magnet terkuat di antara semua planet. Planet ini juga memiliki lebih dari 90 satelit alami yang telah dikonfirmasi, termasuk empat yang paling terkenal: Io, Europa, Ganymede, dan Callisto, yang dikenal sebagai satelit Galilea. Europa sangat menarik bagi ilmuwan karena diduga memiliki lautan bawah permukaan yang dapat mendukung kehidupan mikroba. Jupiter berputar sangat cepat: satu hari hanya sekitar 10 jam, tetapi satu tahun Jupiter membutuhkan 12 tahun Bumi. Dengan sifatnya yang masif, Jupiter memainkan peran penting dalam stabilitas sistem Tata Surya."
+    },
+    {
+      "name": "Saturn",
+      "radius": "58.232 km",
+      "rotationPeriod": "10,7 Jam",
+      "revolutionPeriod": "29,45 tahun Bumi",
+      "distance": "1,4 miliar km",
+      "description": "Saturnus adalah planet keenam dari Matahari dan terkenal dengan sistem cincinnya yang spektakuler. Dengan diameter sekitar 116.460 km, Saturnus adalah planet terbesar kedua setelah Jupiter. Cincinnya terdiri dari jutaan partikel es dan batu yang berukuran dari kecil hingga sebesar gunung. Jarak Saturnus dari Matahari sekitar 1,4 miliar kilometer. Saturnus juga merupakan raksasa gas, sebagian besar terdiri dari hidrogen dan helium. Atmosfernya memiliki pola awan yang halus dengan warna kekuningan. Rotasi Saturnus cepat, sehingga menghasilkan bentuk agak pepat pada kutubnya. Saturnus memiliki lebih dari 80 satelit alami, dengan Titan sebagai yang terbesar. Titan memiliki atmosfer tebal dan danau metana cair, menjadikannya salah satu dunia paling unik dalam Tata Surya. Meskipun sangat jauh dan dingin, Saturnus terus menjadi objek penelitian untuk memahami proses pembentukan planet raksasa dan dinamika sistem cincin yang indah tersebut."
+    },
+    {
+      "name": "Uranus",
+      "radius": "25.362 km",
+      "rotationPeriod": "17 Jam (Retrograde)",
+      "revolutionPeriod": "84 tahun Bumi",
+      "distance": "2,8 miliar km",
+      "description": "Uranus adalah planet ketujuh dari Matahari dan salah satu planet raksasa es dalam Tata Surya. Diameter Uranus sekitar 50.724 km. Planet ini terkenal karena kemiringan sumbunya yang ekstrem, hampir 98 derajat, membuatnya seolah-olah berguling saat mengorbit Matahari. Akibatnya, masing-masing kutub Uranus mengalami siang dan malam selama lebih dari 40 tahun Bumi. Jaraknya dari Matahari sekitar 2,9 miliar kilometer. Atmosfer Uranus terdiri dari hidrogen, helium, dan metana yang memberikan warna kebiruan. Suhu di Uranus sangat dingin, mencapai -224 derajat Celsius, menjadikannya salah satu tempat terdingin di Tata Surya. Uranus memiliki cincin tipis dan lebih dari 25 satelit alami, termasuk Titania, Oberon, Ariel, dan Miranda. Meskipun tampak tenang, Uranus memiliki badai atmosfer yang tidak terduga. Planet ini masih relatif sedikit dieksplorasi, sehingga banyak misteri yang menunggu untuk diungkap."
+    },
+    {
+      "name": "Neptune",
+      "radius": "24.622 km",
+      "rotationPeriod": "16 Jam",
+      "revolutionPeriod": "165 tahun Bumi",
+      "distance": "4,5 miliar km",
+      "description": "Neptunus adalah planet kedelapan dan terjauh dari Matahari dalam Tata Surya. Dengan diameter sekitar 49.244 km, Neptunus merupakan raksasa es seperti Uranus. Jaraknya dari Matahari sekitar 4,5 miliar kilometer. Atmosfer Neptunus didominasi hidrogen, helium, dan metana yang memberikan warna biru gelap khas. angin di Neptunus adalah yang tercepat di Tata Surya, mencapai lebih dari 2.000 km/jam. Planet ini memiliki badai besar seperti Bintik Gelap Besar yang mirip dengan badai di Jupiter. Neptunus memiliki 14 satelit alami yang diketahui, dengan Triton sebagai yang terbesar. Triton diyakini merupakan objek Sabuk Kuiper yang tertangkap gravitasi Neptunus dan memiliki aktivitas geologi berupa geyser nitrogen. Karena jaraknya yang sangat jauh, satu tahun Neptunus berlangsung 165 tahun Bumi. Planet ini masih menjadi target eksplorasi untuk memahami dunia es raksasa yang dingin namun dinamis."
+    },
+    {
+      "name": "Sun",
+      "radius": "696.340 km",
+      "rotationPeriod": "27 hari Bumi",
+      "revolutionPeriod": "-",
+      "distance": "0 km (Pusat)",
+      "description": "Matahari adalah bintang pusat Tata Surya dan merupakan sumber utama energi bagi semua planet dan kehidupan di Bumi. Dengan diameter sekitar 1,39 juta km, Matahari berukuran sangat besar dan massanya mencapai lebih dari 99% massa seluruh sistem Tata Surya. Matahari terdiri terutama dari hidrogen dan helium yang mengalami fusi nuklir di intinya, menghasilkan cahaya dan panas yang kemudian dipancarkan ke seluruh Tata Surya. Jarak Bumi dari Matahari sekitar 149,6 juta km, jarak yang memungkinkan air tetap dalam bentuk cair. Matahari memiliki beberapa lapisan, seperti inti, zona radiasi, zona konveksi, fotosfer, kromosfer, dan korona. Aktivitas Matahari, seperti bintik matahari dan ledakan flare, dapat berdampak pada komunikasi di Bumi dan menghasilkan aurora. Usia Matahari sekitar 4,6 miliar tahun dan diperkirakan masih akan bersinar selama 5 miliar tahun lagi sebelum memasuki fase raksasa merah. Matahari adalah objek vital yang menentukan kondisi fisik, orbit, dan iklim planet-planet dalam Tata Surya."
+    },
+    {
+      "name": "Moon",
+      "radius": "1.737 km",
+      "rotationPeriod": "27 hari Bumi",
+      "revolutionPeriod": "27 hari Bumi",
+      "distance": "384.400 km (dari Bumi)",
+      "description": "Bulan adalah satelit alami Bumi satu-satunya dan merupakan objek terdekat dengan planet kita. Dengan diameter sekitar 3.474 km, Bulan memiliki pengaruh besar terhadap kehidupan di Bumi, terutama melalui gaya gravitasi yang menghasilkan pasang surut air laut. Bulan terbentuk sekitar 4,5 miliar tahun lalu, kemungkinan hasil tumbukan besar antara Bumi muda dan objek seukuran Mars. Permukaannya dipenuhi kawah, pegunungan, dan dataran luas yang disebut maria. Karena tidak memiliki atmosfer tebal, suhu permukaannya berubah drastis antara siang dan malam. Bulan berjarak rata-rata 384.400 km dari Bumi. Rotasi Bulan terkunci dengan orbitnya, sehingga hanya satu sisi yang selalu terlihat dari Bumi. Misi Apollo pada tahun 1960–1970 membawa manusia pertama ke Bulan dan mengumpulkan sampel batuan yang memberi wawasan tentang sejarah Tata Surya. Bulan memiliki peran penting dalam stabilitas rotasi Bumi, menjaga kemiringan sumbu tetap konsisten dan mendukung kondisi cuaca serta kehidupan."
+    }
+  ]
+}
