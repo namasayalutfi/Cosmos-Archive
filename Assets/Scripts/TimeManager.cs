@@ -1,9 +1,5 @@
 using UnityEngine;
-<<<<<<< Updated upstream
 using TMPro; // Jika ingin update text UI langsung dari sini
-=======
-using TMPro;
->>>>>>> Stashed changes
 
 public class TimeManager : MonoBehaviour
 {
@@ -20,10 +16,7 @@ public class TimeManager : MonoBehaviour
     private float savedSpeedBeforePause = 1.0f; // Menyimpan speed saat dipause
     private bool isPaused = false;
 
-<<<<<<< Updated upstream
     // UI References (Optional, sesuai request UI kamu)
-=======
->>>>>>> Stashed changes
     public TextMeshProUGUI speedTextLabel; 
 
     private void Awake()
@@ -93,15 +86,9 @@ public class TimeManager : MonoBehaviour
         if (speedTextLabel != null)
         {
             if (isPaused)
-<<<<<<< Updated upstream
                 speedTextLabel.text = "PAUSED";
             else
                 speedTextLabel.text = $"Speed: {currentMultiplier:F1}x"; // Tampilkan 1 desimal (contoh: 1.2x)
-=======
-                speedTextLabel.text = "Paused";
-            else
-                speedTextLabel.text = $"{currentMultiplier:F1}x";
->>>>>>> Stashed changes
         }
     }
 }
